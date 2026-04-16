@@ -1,0 +1,25 @@
+# Maven
+backend/target/
+backend/.mvn/
+*.class
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scripts locales
+tools/
+*.ps1
+*.txt
+auth_result.txt
+project_url.txt
+
