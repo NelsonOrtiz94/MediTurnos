@@ -1,4 +1,4 @@
-# MediTurnos 🏥
+# MediTurnos
 
 MediTurnos es un sistema de gestión de turnos para consultorios médicos, diseñado para organizar pacientes, médicos, especialidades y citas de manera eficiente.
 
@@ -117,7 +117,7 @@ npm run dev
 
 ## Tablero GitHub Projects
 
-[Ver tablero Kanban →](https://github.com/NelsonOrtiz94/MediTurnos/projects)
+[Ver tablero Kanban →](https://github.com/users/NelsonOrtiz94/projects/1/views/1)
 
 ## Video de Presentación
 
