@@ -4,7 +4,7 @@ import {
   getPacientes, getMedicos, getAgenda, getHistorial, getReporte
 } from '../../api';
 
-const TABS = ['Agendar', 'Todas las citas', 'Agenda diaria', 'Historial paciente', 'Reporte'];
+const TABS = ['Agendar', 'Todas las citas', 'Agenda diaria', 'Historial paciente', 'Report'];
 
 export default function CitasPage() {
   const [tab, setTab]             = useState(0);
