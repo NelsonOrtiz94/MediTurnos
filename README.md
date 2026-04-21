@@ -119,6 +119,42 @@ npm run dev
 
 [Ver tablero Kanban →](https://github.com/users/NelsonOrtiz94/projects/1/views/1)
 
+## Sprint 1 — Plan
+
+**Fecha de inicio:** 21/04/2026
+**Fecha de fin estimada:** 25/04/2026
+
+### Issues seleccionados para Sprint 1
+
+| Issue | Historia de Usuario | Prioridad |
+|---|---|---|
+| #1 | HU-01 — Configuración inicial del proyecto | Alta |
+| #2 | HU-02 — Registro de pacientes | Alta |
+| #3 | HU-03 — Gestión de médicos | Alta |
+| #4 | HU-04 — Gestión de especialidades | Media |
+| #6 | HU-06 — Agendamiento de citas | Alta |
+
+### Criterio de selección
+
+Se priorizaron las historias de la **Épica 1** porque representan la base estructural del sistema: sin los módulos de pacientes, médicos y especialidades no es posible implementar el agendamiento de citas. HU-06 se incluyó porque es la funcionalidad central del negocio y depende directamente de los módulos base. Estas 5 historias forman el camino crítico del proyecto.
+
+## Progreso del Proyecto
+
+| Sprint | Estado | Issues completados | Informe |
+|---|---|---|---|
+| Sprint 1 (21/04 – 25/04/2026) | ✅ Completado | 2/5 | [Ver informe](INFORME-SPRINT1.md) |
+
+**Estado actual del tablero:**
+- 📋 Backlog: 8 issues (HU-08 al HU-15)
+- 🔄 En Progreso: 3 issues (HU-03, HU-04, HU-06)
+- 🔍 En Revisión: 2 issues (HU-05, HU-07)
+- ✅ Completado: 2 issues (HU-01, HU-02)
+
 ## Video de Presentación
 
 [Video de presentación →](https://drive.google.com/file/d/1HNoTbmFyaem_EdAOACCjyxwnjj-llTTE/view?usp=sharing)
+
+## Video de Avance Sprint 1
+
+[Agregar aquí el enlace del video de avance Sprint 1 en YouTube o Google Drive]
+
