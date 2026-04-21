@@ -121,4 +121,4 @@ npm run dev
 
 ## Video de Presentación
 
-[Ver tablero Kanban →](https://drive.google.com/file/d/1HNoTbmFyaem_EdAOACCjyxwnjj-llTTE/view?usp=sharing)
+[Video de presentación →](https://drive.google.com/file/d/1HNoTbmFyaem_EdAOACCjyxwnjj-llTTE/view?usp=sharing)
