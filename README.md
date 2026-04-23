@@ -136,7 +136,7 @@ npm run dev
 
 ### Criterio de selección
 
-Se priorizaron las historias de la **Épica 1** porque representan la base estructural del sistema: sin los módulos de pacientes, médicos y especialidades no es posible implementar el agendamiento de citas. HU-06 se incluyó porque es la funcionalidad central del negocio y depende directamente de los módulos base. Estas 5 historias forman el camino crítico del proyecto
+Se priorizaron las historias de la **Épica 1** porque representan la base estructural del sistema: sin los módulos de pacientes, médicos y especialidades no es posible implementar el agendamiento de citas. HU-06 se incluyó porque es la funcionalidad central del negocio y depende directamente de los módulos base. Estas 5 historias forman el camino crítico del proyecto.
 
 ## Progreso del Proyecto
 
