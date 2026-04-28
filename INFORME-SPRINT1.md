@@ -36,11 +36,12 @@
 
 **Descripción:** Al inicio del Sprint 1 todos los issues estaban en Backlog. Durante la simulación del sprint se movieron 5 issues a "En Progreso" (HU-01, HU-02, HU-03, HU-04, HU-06), luego 3 avanzaron a "En Revisión" (HU-05, HU-07 y uno adicional), y finalmente HU-01 y HU-02 llegaron a "Completado" al cumplir todos sus criterios de aceptación.
 
-> 📸 **[Captura del tablero antes de iniciar el Sprint]**
-> Todos los issues en columna Backlog — ver tablero: https://github.com/users/NelsonOrtiz94/projects/1/views/1
+**📸 Tablero Kanban — Estado final Sprint 1**
 
-> 📸 **[Captura del tablero al finalizar el Sprint 1]**
-> HU-01 y HU-02 en Completado, HU-03/HU-04/HU-06 en Progreso, HU-05/HU-07 en Revisión.
+![Tablero Kanban Sprint 1](assets/screenshots/tablero-sprint1-final.png)
+
+> Distribución final: **Backlog** (8 issues: HU-08 a HU-15) · **In Progress** (3 issues: HU-03, HU-04, HU-06) · **In Review** (2 issues: HU-05, HU-07) · **Done** (2 issues: HU-01, HU-02)
+> Ver tablero en vivo: https://github.com/users/NelsonOrtiz94/projects/1/views/1
 
 ---
 
@@ -48,35 +49,39 @@
 
 ### 3.1 Pulse
 
-> 📸 **[Captura de la sección Pulse]**
-> Ruta: https://github.com/NelsonOrtiz94/MediTurnos/pulse
+**📸 GitHub Insights — Pulse (último mes)**
+
+![GitHub Insights Pulse](assets/screenshots/insights-pulse.png)
 
 **Interpretación:**
-El Pulse muestra la actividad del repositorio en los últimos 7 días. Se registran commits relacionados con la configuración inicial del proyecto (estructura backend/frontend, application.properties, pom.xml, docker-compose), la creación de entidades base (Paciente, Médico, Especialidad, Cita) y sus controladores REST. Se cerraron 2 issues (HU-01 y HU-02) y se realizaron múltiples commits semánticos con prefijos `feat:`, `docs:` y `chore:`. No hay Pull Requests pendientes ya que es un proyecto individual.
+El Pulse muestra la actividad del repositorio en el período 28/03/2026 – 28/04/2026. Se registran **13 commits** realizados por 1 autor hacia la rama `main`. Se cerraron **2 issues** (HU-01 y HU-02) y se abrieron **13 issues** nuevos. Hay **0 Pull Requests** (abiertos y mergeados), lo cual es normal en un proyecto individual donde se trabaja directamente sobre la rama principal. Los commits semánticos con prefijos `feat:`, `docs:` y `chore:` son visibles en el resumen de actividad.
 
 ### 3.2 Contributors
 
-> 📸 **[Captura de la sección Contributors]**
-> Ruta: https://github.com/NelsonOrtiz94/MediTurnos/graphs/contributors
+**📸 GitHub Insights — Contributors**
+
+![GitHub Insights Contributors](assets/screenshots/insights-contributors.png)
 
 **Interpretación:**
-El único contribuidor es **NelsonOrtiz94**. La gráfica muestra toda la actividad de commits concentrada en el desarrollador principal, lo cual es esperado para un proyecto académico individual. Los commits se distribuyeron en los días de la semana de trabajo del sprint. En un equipo real, aquí se vería la distribución de trabajo entre los miembros y se podría detectar si algún desarrollador está sobrecargado.
+El único contribuidor es **NelsonOrtiz94** con **13 commits**, **6.228 líneas agregadas** y solo **39 líneas eliminadas**. La gráfica "Commits over time" muestra dos picos: uno en la semana del **13 de abril** (scaffolding inicial: estructura del proyecto, Docker, `pom.xml`) y el pico más alto en la semana del **20 de abril** (implementación de entidades JPA, controladores REST, componentes React). La semana del **27 de abril** registra actividad mínima correspondiente a los commits de documentación e informe. En un equipo real esta vista permitiría detectar si algún desarrollador está sobrecargado o si la distribución de trabajo es inequitativa.
 
 ### 3.3 Frecuencia de Commits
 
-> 📸 **[Captura del gráfico Commits]**
-> Ruta: https://github.com/NelsonOrtiz94/MediTurnos/graphs/commit-activity
+**📸 GitHub Insights — Commits over the last year**
+
+![GitHub Insights Commits](assets/screenshots/insights-commits.png)
 
 **Interpretación:**
-La gráfica de commits muestra un pico de actividad concentrado en la semana de inicio del proyecto (semana del 21/04/2026), lo cual es coherente con el arranque del Sprint 1. Este patrón es típico de proyectos nuevos donde se realiza el scaffolding inicial. En un sprint maduro, los commits deberían distribuirse de manera más uniforme a lo largo de los días, evitando el "efecto avalancha" de último momento.
+La gráfica muestra los commits por semana en el último año. Todo el historial del proyecto está concentrado en **abril 2026**, con un pico de **8 commits** en la semana del 20 de abril (implementación de entidades, servicios y controladores) y **4 commits** en la semana del 13 de abril (scaffolding inicial). Fuera de ese período no hay actividad, lo cual es coherente con ser un proyecto nuevo. En un sprint maduro los commits deberían distribuirse uniformemente cada día de la semana para reflejar un flujo de trabajo continuo y evitar el "efecto avalancha" de último momento.
 
 ### 3.4 Code Frequency
 
-> 📸 **[Captura de Code Frequency]**
-> Ruta: https://github.com/NelsonOrtiz94/MediTurnos/graphs/code-frequency
+**📸 GitHub Insights — Code Frequency**
+
+![GitHub Insights Code Frequency](assets/screenshots/insights-code-frequency.png)
 
 **Interpretación:**
-La gráfica de frecuencia de código muestra un pico alto de líneas agregadas en la semana inicial, correspondiente a la creación de toda la estructura base del proyecto: entidades JPA, repositorios, servicios, controladores REST, componentes React, configuración de Docker y PostgreSQL. Las líneas eliminadas son mínimas, lo que indica que el código fue construido de forma incremental y sin grandes refactorizaciones. A medida que el proyecto avance hacia las épicas 2 y 3, se espera ver ciclos más balanceados de adición y modificación de código.
+La gráfica muestra un bloque verde de casi **6.000 líneas agregadas** en la semana del **13 de abril**, correspondiente a la creación de toda la estructura base del proyecto: entidades JPA (`Paciente`, `Medico`, `Especialidad`, `Cita`), repositorios Spring Data, servicios, controladores REST, componentes React y configuración de Docker/PostgreSQL. La semana del **20 de abril** muestra una segunda barra más pequeña con el resto de la implementación. Las líneas eliminadas (rojo) son prácticamente **cero** en todo el historial, lo que confirma que el código fue construido de forma incremental y limpia, sin grandes refactorizaciones. A medida que el proyecto avance hacia las épicas 2 y 3, se esperan ciclos más balanceados de adición y modificación.
 
 ---
 
