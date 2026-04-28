@@ -17,9 +17,9 @@
 |---|---|---|
 | #1 | HU-01 — Configuración inicial del proyecto | ✅ Completado |
 | #2 | HU-02 — Registro de pacientes | ✅ Completado |
-| #3 | HU-03 — Gestión de médicos | 🔄 En Progreso |
-| #4 | HU-04 — Gestión de especialidades | 🔄 En Progreso |
-| #6 | HU-06 — Agendamiento de citas | 🔄 En Progreso |
+| #3 | HU-03 — Gestión de médicos | En Progreso |
+| #4 | HU-04 — Gestión de especialidades | En Progreso |
+| #6 | HU-06 — Agendamiento de citas | En Progreso |
 
 ---
 
@@ -29,10 +29,10 @@
 
 | Columna | Issues |
 |---|---|
-| ✅ Completado | #1 HU-01, #2 HU-02 |
-| 🔍 En Revisión | #5 HU-05, #7 HU-07 |
-| 🔄 En Progreso | #3 HU-03, #4 HU-04, #6 HU-06 |
-| 📋 Backlog | #8 HU-08, #9 HU-09, #10 HU-10, #11 HU-11, #12 HU-12, #13 HU-13, #14 HU-14, #15 HU-15 |
+| Completado | #1 HU-01, #2 HU-02 |
+| En Revisión | #5 HU-05, #7 HU-07 |
+| En Progreso | #3 HU-03, #4 HU-04, #6 HU-06 |
+| Backlog | #8 HU-08, #9 HU-09, #10 HU-10, #11 HU-11, #12 HU-12, #13 HU-13, #14 HU-14, #15 HU-15 |
 
 **Descripción:** Al inicio del Sprint 1 todos los issues estaban en Backlog. Durante la simulación del sprint se movieron 5 issues a "En Progreso" (HU-01, HU-02, HU-03, HU-04, HU-06), luego 3 avanzaron a "En Revisión" (HU-05, HU-07 y uno adicional), y finalmente HU-01 y HU-02 llegaron a "Completado" al cumplir todos sus criterios de aceptación.
 
