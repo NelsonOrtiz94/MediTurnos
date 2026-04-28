@@ -145,9 +145,9 @@ Se priorizaron las historias de la **Épica 1** porque representan la base estru
 | Sprint 1 (21/04 – 25/04/2026) | ✅ Completado | 2/5 | [Ver informe](INFORME-SPRINT1.md) |
 
 **Estado actual del tablero:**
-- 📋 Backlog: 8 issues (HU-08 al HU-15)
-- 🔄 En Progreso: 3 issues (HU-03, HU-04, HU-06)
-- 🔍 En Revisión: 2 issues (HU-05, HU-07)
+-  Backlog: 8 issues (HU-08 al HU-15)
+-  En Progreso: 3 issues (HU-03, HU-04, HU-06)
+-  En Revisión: 2 issues (HU-05, HU-07)
 - ✅ Completado: 2 issues (HU-01, HU-02)
 
 ## Video de Presentación
