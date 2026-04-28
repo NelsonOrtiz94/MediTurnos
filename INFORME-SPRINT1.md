@@ -36,7 +36,7 @@
 
 **Descripción:** Al inicio del Sprint 1 todos los issues estaban en Backlog. Durante la simulación del sprint se movieron 5 issues a "En Progreso" (HU-01, HU-02, HU-03, HU-04, HU-06), luego 3 avanzaron a "En Revisión" (HU-05, HU-07 y uno adicional), y finalmente HU-01 y HU-02 llegaron a "Completado" al cumplir todos sus criterios de aceptación.
 
-**📸 Tablero Kanban — Estado final Sprint 1**
+** Tablero Kanban — Estado final Sprint 1**
 
 ![Tablero Kanban Sprint 1](assets/screenshots/tablero-sprint1-final.png)
 
@@ -49,7 +49,7 @@
 
 ### 3.1 Pulse
 
-**📸 GitHub Insights — Pulse (último mes)**
+** GitHub Insights — Pulse (último mes)**
 
 ![GitHub Insights Pulse](assets/screenshots/insights-pulse.png)
 
@@ -58,7 +58,7 @@ El Pulse muestra la actividad del repositorio en el período 28/03/2026 – 28/0
 
 ### 3.2 Contributors
 
-**📸 GitHub Insights — Contributors**
+** GitHub Insights — Contributors**
 
 ![GitHub Insights Contributors](assets/screenshots/insights-contributors.png)
 
@@ -67,7 +67,7 @@ El único contribuidor es **NelsonOrtiz94** con **13 commits**, **6.228 líneas 
 
 ### 3.3 Frecuencia de Commits
 
-**📸 GitHub Insights — Commits over the last year**
+**GitHub Insights — Commits over the last year**
 
 ![GitHub Insights Commits](assets/screenshots/insights-commits.png)
 
@@ -76,7 +76,7 @@ La gráfica muestra los commits por semana en el último año. Todo el historial
 
 ### 3.4 Code Frequency
 
-**📸 GitHub Insights — Code Frequency**
+**GitHub Insights — Code Frequency**
 
 ![GitHub Insights Code Frequency](assets/screenshots/insights-code-frequency.png)
 
