@@ -110,7 +110,7 @@ La principal limitación es que las gráficas de Insights son más informativas 
 
 ## 6. Video de Avance Sprint 1
 
-[Agregar aquí el enlace al video en YouTube (modo no listado) o Google Drive]
+[▶️ Ver Video de Avance Sprint 1 — Google Drive](https://drive.google.com/file/d/14EW6cQL77EZzrEI1O58-6aSmyVSvnFVb/view?usp=sharing)
 
 > El video cubre: estado del tablero Kanban, recorrido por GitHub Insights (Pulse y Contributors), y reflexión sobre el avance del Sprint 1.
 
