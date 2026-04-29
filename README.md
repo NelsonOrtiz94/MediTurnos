@@ -150,7 +150,7 @@ Se priorizaron las historias de la **Épica 1** porque representan la base estru
 -  En Revisión: 2 issues (HU-05, HU-07)
 - ✅ Completado: 2 issues (HU-01, HU-02)
 
-## Video de Presentación
+## Video de Presentación.
 
 [Video de presentación →](https://drive.google.com/file/d/1HNoTbmFyaem_EdAOACCjyxwnjj-llTTE/view?usp=sharing)
 
