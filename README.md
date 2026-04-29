@@ -101,7 +101,7 @@ npm run dev
 ## API REST — Endpoints principales
 
 | Método | Endpoint | Descripción |
-|---|---|---|
+|---|---|--|
 | GET | /api/especialidades | Listar especialidades |
 | POST | /api/especialidades | Crear especialidad |
 | GET | /api/medicos?q= | Listar / buscar médicos |
