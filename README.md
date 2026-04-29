@@ -101,7 +101,7 @@ npm run dev
 ## API REST — Endpoints principales
 
 | Método | Endpoint | Descripción |
-|---|---|---|
+|---|---|--|
 | GET | /api/especialidades | Listar especialidades |
 | POST | /api/especialidades | Crear especialidad |
 | GET | /api/medicos?q= | Listar / buscar médicos |
@@ -156,5 +156,5 @@ Se priorizaron las historias de la **Épica 1** porque representan la base estru
 
 ## Video de Avance Sprint 1
 
-[▶️ Ver Video de Avance Sprint 1 → Google Drive](https://drive.google.com/file/d/14EW6cQL77EZzrEI1O58-6aSmyVSvnFVb/view?usp=sharing)
+[Ver Video de Avance Sprint 1 → Google Drive](https://drive.google.com/file/d/14EW6cQL77EZzrEI1O58-6aSmyVSvnFVb/view?usp=sharing)
 
