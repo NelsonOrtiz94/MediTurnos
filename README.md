@@ -1,6 +1,6 @@
 # MediTurnos
 
-MediTurnos es un sistema de gestión de turnos para consultorios médicos, diseñado para organizar pacientes, médicos, especialidades y citas de manera eficiente
+MediTurnos es un sistema de gestión de turnos para consultorios médicos, diseñado para organizar pacientes, médicos, especialidades y citas de manera eficiente.
 
 ## Problema que resuelve
 
